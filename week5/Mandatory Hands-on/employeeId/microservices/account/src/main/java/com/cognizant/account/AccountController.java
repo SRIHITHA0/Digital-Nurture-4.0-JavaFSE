@@ -14,7 +14,7 @@ public class AccountController {
     }
 }
 
-// Simple POJO (Plain Old Java Object) to hold account details
+
 class Account {
     public String number;
     public String type;
