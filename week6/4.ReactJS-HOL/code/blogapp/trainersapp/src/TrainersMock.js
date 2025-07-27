@@ -1,4 +1,3 @@
-// TrainersMock.js
 const trainers = [
     {
         trainerId: 1,
