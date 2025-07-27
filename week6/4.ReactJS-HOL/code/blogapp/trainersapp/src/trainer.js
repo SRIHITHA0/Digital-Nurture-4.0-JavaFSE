@@ -1,4 +1,3 @@
-// trainer.js
 class Trainer {
     constructor(trainerId, name, email, phone, technology, skills) {
         this.trainerId = trainerId;
