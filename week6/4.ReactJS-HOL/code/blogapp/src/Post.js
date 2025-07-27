@@ -1,4 +1,3 @@
-// src/Post.js
 import React from 'react';
 
 const Post = ({ title, body }) => {
