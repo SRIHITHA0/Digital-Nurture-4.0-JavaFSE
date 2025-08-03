@@ -13,7 +13,7 @@
 }
 
 .section {
-  padding: 0 20px;
+  padding: 30px;
   border-right: 2px solid green;
   min-width: 25%;
   box-sizing: border-box;
@@ -25,13 +25,13 @@
 
 h2 {
   font-size: 22px;
-  font-weight: bold;
-  /*  margin-bottom: 10px;*/
+  font-weight: 600;
+  margin-bottom: 10px;
 }
 
 h3 {
   font-size: 18px;
-  /*margin: 10px 0 5px;*/
+  margin: 10px 0;
 }
 
 p,
