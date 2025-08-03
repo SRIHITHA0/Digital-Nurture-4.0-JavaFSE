@@ -1,0 +1,40 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 30px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  border-left: 4px solid green;
+  border-right: 4px solid green;
+}
+
+.section {
+  padding: 0 20px;
+  border-right: 2px solid green;
+  min-width: 25%;
+  box-sizing: border-box;
+}
+
+.section:last-child {
+  border-right: none;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: bold;
+  /*  margin-bottom: 10px;*/
+}
+
+h3 {
+  font-size: 18px;
+  /*margin: 10px 0 5px;*/
+}
+
+p,
+strong {
+  font-size: 16px;
+}
